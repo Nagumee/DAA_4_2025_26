@@ -49,3 +49,6 @@ int main() {
 
     return 0;
 }
+
+// nlogn
+// n^(log base2 3)
